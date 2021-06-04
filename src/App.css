@@ -1,0 +1,10 @@
+
+.centre{
+  text-align: center;
+}
+
+input.error{
+    
+  border: 2px solid red;
+}
+
